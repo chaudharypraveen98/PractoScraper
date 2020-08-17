@@ -1,0 +1,5 @@
+Serial_no,package_title,package_desc,package_tests,package_offer_price,package_mrp_price,package_price_discount
+1,Advanced Diabetic Patient's Health Checkup,Ideal for individuals aged 35 - 85 years,89 tests included,₹3599,₹5000,28% off
+2,Advanced Diabetic Screening Checkup,Ideal for individuals aged 35 - 85 years,70 tests included,₹2199,₹3000,27% off
+3,Basic Diabetic Screening Checkup,Ideal for individuals aged 20 - 40 years,66 tests included,₹1599,₹2000,20% off
+4,Diabetic Patient's Health Checkup,Ideal for individuals aged 35 - 85 years,77 tests included,₹2799,₹4000,30% off

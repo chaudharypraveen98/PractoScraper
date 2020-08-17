@@ -1,0 +1,11 @@
+Serial_no,test_title,test_desc,test_price
+1,HbA1c,Known as Glycosylated Haemoglobin Blood,₹300
+2,Insulin Fasting Blood,Known as Insulin Fasting Blood,₹500
+3,Fasting Blood Sugar,Known as Glucose Fasting Blood,₹150
+4,Lipid Profile,Known as Lipid Profile Blood,₹400
+5,Random Blood Sugar,Known as Glucose Random Blood,₹150
+6,C Peptide Blood,Known as C Peptide Random Blood,₹500
+7,"Thyroid Profile (T3, T4, TSH)",Known as Thyroid Profile Total Blood,₹400
+8,Post Prandial Blood Sugar,Known as Glucose Post Prandial Blood,₹150
+9,Liver Function Test,Known as Liver Function Tests Blood,₹400
+10,Complete Blood Picture (CBP),Known as Complete Blood Count Automated Blood,₹300
